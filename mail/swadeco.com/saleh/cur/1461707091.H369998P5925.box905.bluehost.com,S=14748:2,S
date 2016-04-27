@@ -1,0 +1,231 @@
+Return-path: <0100015454881ea4-5ae238af-c13e-4eba-aec8-ecf3d6b6b94c-000000@amazonses.com>
+Envelope-to: saleh@swadeco.com
+Delivery-date: Tue, 26 Apr 2016 15:44:51 -0600
+Received: from [54.240.14.30] (port=37990 helo=a14-30.smtp-out.amazonses.com)
+	by box905.bluehost.com with esmtps (TLSv1:ECDHE-RSA-AES128-SHA:128)
+	(Exim 4.86_2)
+	(envelope-from <0100015454881ea4-5ae238af-c13e-4eba-aec8-ecf3d6b6b94c-000000@amazonses.com>)
+	id 1avAmo-0001TN-QW
+	for saleh@swadeco.com; Tue, 26 Apr 2016 15:44:51 -0600
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=xnlkgdg6lfiigr56lumttxpdw7xvumrq; d=adobe.com; t=1461707087;
+	h=From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:Date;
+	bh=gABjyoNfC0BwttgHOOwScr003HUFjqvlRf+3H5dMmbs=;
+	b=bfZUvIHQwo8Fo58nRHubzwJjsCtWMg+mJJnqhdeW06szF8tQ8UtgYnrLm8YirAqt
+	kP7HYeWnKnbvwKxHgPcZKNuIMpjACsJguniM5BhUKtC2UNKyvF5l0MLlm3PdP2ykZHa
+	myBxwwuZDJOwzt9TQItNGu4+M2V+8XR98kOpJlZE=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=6gbrjpgwjskckoa6a5zn6fwqkn67xbtw; d=amazonses.com; t=1461707087;
+	h=From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:Date:Feedback-ID;
+	bh=gABjyoNfC0BwttgHOOwScr003HUFjqvlRf+3H5dMmbs=;
+	b=SMwLLLTkaMP2woeqcap/tc5x9hKWzfLZsYptoeMer5bug6K0v0EjHrkY+8jDbYGW
+	9RlOSVbucKgAy1L4d81r9rduW/W/rPQS24fB6Zn3Tct2otdUsAKPm4A1YVLTCzUnoN5
+	FC+IUicWzlejTODWbfPLHR3epAvVBki1VjDz+fqM=
+From: Adobe Creative Cloud  <message@adobe.com>
+Reply-To: Adobe Creative Cloud <message@adobe.com>
+To: saleh@swadeco.com
+Message-ID: <0100015454881ea4-5ae238af-c13e-4eba-aec8-ecf3d6b6b94c-000000@email.amazonses.com>
+Subject: Explore your account
+Errors-To: Adobe Creative Cloud <message@adobe.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_207996_398111335.1461707087408"
+Date: Tue, 26 Apr 2016 21:44:47 +0000
+X-SES-Outgoing: 2016.04.26-54.240.14.30
+Feedback-ID: 1.us-east-1.4BVvjB29RcVWWoA9T/L9DGquaEnd6x9G7xLW1muBHKQ=:AmazonSES
+X-Identified-User: {0000:box905.bluehost.com:local:local} {sentby:Delivered locally}
+
+------=_Part_207996_398111335.1461707087408
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+------------------------------------------------------------------
+ADOBE CREATIVE CLOUD
+------------------------------------------------------------------
+
+Welcome. We're glad you've joined us.
+
+Your Adobe ID links all of your Adobe experiences under one account, using this email address. Here are some great ways to leverage it.
+
+- Pass projects seamlessly between desktop and mobile devices. If you don't have the 2015 release of Creative Cloud, test drive free trials.
+
+2015 release of Creative Cloud:
+http://www.adobe.com/creativecloud.html
+
+Free trials:
+http://www.adobe.com/creativecloud/catalog/desktop.html
+
+- Get started with Creative Cloud Libraries. Thanks to the power of Adobe CreativeSync, this in-app feature gives you easy access to all of your design assets as you work.
+
+Creative Cloud Libraries:
+http://www.adobe.com/creativecloud/libraries.html
+
+- Jumpstart your projects with integrated Adobe Typekit fonts and 40 million images from Adobe Stock.
+
+Adobe Typekit fonts:
+https://typekit.com/fonts?collection=foundry-adobe
+
+Adobe Stock:
+http://www.stock.adobe.com/
+
+------------------------------------------------------------------
+
+Explore my account:
+http://www.adobe.com/go/cc_products
+
+------------------------------------------------------------------
+
+Questions? Learn more about Creative Cloud or check out our FAQ.
+
+Creative Cloud:
+http://www.adobe.com/products/creativecloud.html?trackingid=KGLMI
+
+FAQ:
+http://www.adobe.com/products/creativecloud/faq.html?trackingid=KGLMJ
+
+------------------------------------------------------------------
+
+Evaluate options for teams, students and educators, or request a consultation.
+
+Teams:
+https://creative.adobe.com/plans?store_code=na?plan=team&trackingid=KHXVB
+
+Students and educators:
+https://creative.adobe.com/plans?store_code=na?plan=edu&trackingid=KGLMG
+ 
+Request a consultation:
+http://www.adobe.com/products/request-consultation/creative-cloud.html?trackingid=KGLMH
+
+------------------------------------------------------------------
+
+Customer Support:
+http://www.adobe.com/go/cc_customersupport
+
+Forums:
+http://forums.adobe.com/community/creative_cloud
+
+******************************************************************
+
+Creative Cloud is available to users 13 and older.
+
+Adobe, the Adobe logo, Creative Cloud, the Creative Cloud logo and Typekit are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries. All other trademarks are the property of their respective owners.
+
+(C) 2016 Adobe Systems Incorporated. All rights reserved.
+
+This is a marketing email from  Adobe Systems Incorporated, 345 Park Ave., San Jose, CA 95110 USA 
+Click below to unsubscribe:
+http://www.adobe.com/cfusion/unsubscribe/index.cfm?type=macrupdates&email=saleh%40swadeco.com&loc=en_us
+
+Your privacy is important to us. Please review the Adobe Privacy Policy:
+http://www.adobe.com/privacy.html
+
+Please do not reply to this message. To contact Adobe, find options online:
+http://www.adobe.com/company/contact.html
+------=_Part_207996_398111335.1461707087408
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Adobe Creative Cloud</title>
+<style type="text/css">
+.ReadMsgBody { width: 100%;}
+.ExternalClass {width: 100%;}
+	@media only screen and (max-width: 480px){
+		td[class="web"], table[class="web"] {
+	         display:none !important;
+	     }	
+		 a[class="button"] {
+	         width:100% !important;
+	     }	
+	}
+</style>
+</head>
+<body bgcolor="#ffffff" style="background-color:#ffffff; margin:0; padding:0;" topmargin="0"><div style="font-size: 1px; color:#ffffff; display:none; overflow:hidden; visibility:hidden;">Welcome. We&#8217;re glad you&#8217;ve joined us. Your Adobe ID links all of your Adobe experiences under one account, using this email address. Here are some great ways to leverage it. </div>
+<table width="100%" bgcolor="#ffffff" style="background-color:#ffffff;" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>&nbsp;</td>
+    <td class="web" align="right" style="color:#333333; font-family: Arial, Helvetica, sans-serif; font-size: 11px; line-height:13px; padding-top:15px; padding-bottom:15px; padding-right:12px;"><a href="http://www.adobe.com/go/cc_manage_act" alias="Account" target="_blank" style="color:#2b9af3; text-decoration:none; font-weight:bold">Manage Your Account</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.adobe.com/go/cc_customersupport" alias="Support" target="_blank" style="color:#2b9af3; text-decoration:none; font-weight:bold">Customer Support</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="http://forums.adobe.com/community/creative_cloud" alias="Forums"  target="_blank" style="color:#2b9af3; text-decoration:none; font-weight:bold">Forums</a></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td width="90%" bgcolor="#fafafa" style="background-color:#fafafa; border-top:1px solid #e1e1e1; border-left:1px solid #e1e1e1; border-right:1px solid #e1e1e1; border-bottom:1px solid #e1e1e1;">
+    	<table align="center" width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+            <td width="24">&nbsp;</td>
+            <td style="padding-top:16px;"><img alt="Adobe Creative Cloud" src="http://success.adobe.com/assets/en/images/email/templates/adobe.corp.email.ccm.transactional.transparent.344x38.png" height="19" width="172" style="display:block; vertical-align:top;"></td>
+            <td align="right" style="padding-top:10px; text-align:right;"><img alt="Adobe" src="http://landing.adobe.com/dam/global/images/adobe-logo.classic.160x222.png" width="32" height="44" style="display:inline-block; vertical-align:top;"></td>
+            <td width="24">&nbsp;</td>
+        </tr>
+        </table>
+        
+    	<table align="center" width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+            <td width="24">&nbsp;</td>
+            <td style="color:#333333; font-family:Arial, Helvetica, sans-serif; font-size:24px; line-height:26px; padding-top:18px;">Welcome. We&#8217;re glad you&#8217;ve joined&nbsp;us.</td>
+            <td width="24">&nbsp;</td>
+        </tr>
+        <tr>
+        	<td width="24">&nbsp;</td>
+            <td style="color:#858585; font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:20px; padding-top:18px;">Your Adobe&nbsp;ID links all of your Adobe experiences under one account, using this email address. Here are some great ways to leverage&nbsp;it.</td>
+            <td width="24">&nbsp;</td>
+        </tr>
+        <tr>
+        	<td width="24">&nbsp;</td>
+            <td style="color:#858585; font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:20px; padding-top:18px;">
+             <ul style="margin-bottom:0px; margin-top:0px;">
+            	<li style="padding-bottom:4px;">Pass projects seamlessly between desktop and mobile devices. If you don't have the <a href="http://www.adobe.com/creativecloud.html" target="_blank" style="color:#2b9af3; text-decoration:none; font-weight:bold;">2015 release of Creative&nbsp;Cloud</a>, test drive <a href="http://www.adobe.com/creativecloud/catalog/desktop.html" target="_blank" style="color:#2b9af3; text-decoration:none; font-weight:bold;">free&nbsp;trials</a>.</li>
+            	<li style="padding-bottom:4px;">Get started with <a href="http://www.adobe.com/creativecloud/libraries.html" target="_blank" style="color:#2b9af3; text-decoration:none; font-weight:bold;">Creative Cloud Libraries</a>. Thanks to the power of Adobe CreativeSync, this in-app feature gives you easy access to all of your design assets as you work.</li>
+            	<li style="padding-bottom:4px;">Jumpstart your projects with integrated <a href="https://typekit.com/fonts?collection=foundry-adobe" target="_blank" style="color:#2b9af3; text-decoration:none; font-weight:bold;">Adobe Typekit fonts</a> and 40 million images from <a href="http://www.stock.adobe.com" target="_blank" style="color:#2b9af3; text-decoration:none; font-weight:bold;">Adobe&nbsp;Stock</a>.</li>
+             </ul>
+            </td>
+            <td width="24">&nbsp;</td>
+        </tr>
+         <tr>
+        	<td width="24" style="padding-top:18px; padding-bottom:32px; border-bottom:1px solid #e1e1e1;">&nbsp;</td>
+            <td style="color:#858585; font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:20px; padding-top:18px; padding-bottom:32px; border-bottom:1px solid #e1e1e1;"><div><!--[if mso]>
+              <table class="full-width" align="center" width="208" border="0" cellpadding="0" cellspacing="0">
+              <tr>
+              <td height="38" valign="middle" style="background-color:#2b9af3;">
+                <center>
+              <![endif]-->
+                  <a class="button" href="http://www.adobe.com/go/cc_products" target="_blank"
+            style="background-color:#2b9af3;border-radius:6px;color:#ffffff;display:inline-block;font-family:sans-serif;font-size:14px;font-weight:bold;line-height:38px;text-align:center;text-decoration:none;width:208px;-webkit-text-size-adjust:none;">Explore my account</a>
+              <!--[if mso]>
+                </center>
+              </td>
+              </tr>
+              </table>
+            <![endif]--></div></td>
+            <td width="24" style="padding-top:18px; padding-bottom:32px; border-bottom:1px solid #e1e1e1;">&nbsp;</td>
+        </tr>
+        </table>
+        
+        <table align="center" width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+            <td valign="top" style="border-top:1px solid #e1e1e1; color:#858585; font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:18px; padding-top:24px; padding-left:20px; padding-right:20px;">Questions? Learn more about <a href="http://www.adobe.com/products/creativecloud.html?trackingid=KGLMI" target="_blank" style="color:#2b9af3; text-decoration:none; font-weight:bold;">Creative Cloud</a> or check out our <a alias="FAQ" href="http://www.adobe.com/products/creativecloud/faq.html?trackingid=KGLMJ" style="color:#2b9af3;text-decoration:none;font-weight:bold">FAQ</a>.</td>
+        </tr>
+        <tr>
+            <td valign="top" style="border-bottom:1px solid #ececec; color:#858585; font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:18px; padding-top:12px; padding-bottom:24px; padding-left:20px; padding-right:20px;"> Evaluate options for <a href="https://creative.adobe.com/plans?store_code=na?plan=team&trackingid=KHXVB" target="_blank" style="color:#2b9af3; text-decoration:none; font-weight:bold;">teams</a>, <a href="https://creative.adobe.com/plans?store_code=na?plan=edu&trackingid=KGLMG" target="_blank" style="color:#2b9af3; text-decoration:none; font-weight:bold;">students and educators</a>, or <a href="http://www.adobe.com/products/request-consultation/creative-cloud.html?trackingid=KGLMH" target="_blank" style="color:#2b9af3; text-decoration:none; font-weight:bold;">request a consultation</a>.</td>
+        </tr>
+        </table>
+    </td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td align="left" style="color:#a1a1a1; font-family:Arial, Helvetica, sans-serif; font-size:11px; line-height:14px; text-align:left; padding-top:20px; padding-bottom:40px;">Creative Cloud is available to users 13 and older.<br/><br/>
+    Adobe, the Adobe logo, Creative Cloud, the Creative Cloud logo and Typekit  are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries. All other trademarks are the property of their respective owners.<br/><br/>
+    &copy; 2016 Adobe Systems Incorporated. All rights reserved.<br/><br/>
+        This is a marketing email from  Adobe Systems Incorporated, 345 Park Ave., San Jose, CA 95110 USA  <a alias="Unsubscribe" href="http://www.adobe.com/cfusion/unsubscribe/index.cfm?type=macrupdates&email=saleh%40swadeco.com&loc=en_us" style="text-decoration: underline; color: #a1a1a1;" target="_blank">Click here</a> to unsubscribe.<br/><br/>
+    Your privacy is important to us. Please review the <a href="http://www.adobe.com/privacy.html" alias="FOOTER - Privacy Policy" target="_blank" style="color:#a1a1a1;">Adobe&nbsp;Privacy&nbsp;Policy</a>.<br/><br/>
+        Please do not reply to this message. To contact Adobe, find options <a href="http://www.adobe.com/about-adobe/contact.html" target="_blank" style="color:#a1a1a1;" alias="FOOTER - Contact Adobe">online</a>.</td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>
+------=_Part_207996_398111335.1461707087408--
+
