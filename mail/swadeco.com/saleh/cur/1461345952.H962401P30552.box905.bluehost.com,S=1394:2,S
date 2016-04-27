@@ -1,0 +1,38 @@
+Return-path: <saleh@swadeco.com>
+Envelope-to: saleh@swadeco.com
+Delivery-date: Fri, 22 Apr 2016 11:25:52 -0600
+Received: from [98.197.56.77] (port=48360 helo=DESKTOPLRPFJSH)
+	by box905.bluehost.com with esmtpsa (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.86_2)
+	(envelope-from <saleh@swadeco.com>)
+	id 1ateq0-0007sE-M7
+	for saleh@swadeco.com; Fri, 22 Apr 2016 11:25:52 -0600
+From: "Microsoft Outlook" <saleh@swadeco.com>
+Sender: "Microsoft Outlook" <saleh@swadeco.com>
+To: <saleh@swadeco.com>
+Subject: Microsoft Outlook Test Message
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01D19C92.195FC4C0"
+X-Identified-User: {542:box905.bluehost.com:swadecoc:swadeco.com} {sentby:smtp auth 98.197.56.77 authed with saleh@swadeco.com}
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_000A_01D19C92.195FC4C0
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+This is an e-mail message sent automatically by Microsoft Outlook while =
+testing the settings for your account.
+
+------=_NextPart_000_000A_01D19C92.195FC4C0
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>This is an e-mail message sent automatically by Microsoft =
+Outlook while testing the settings for your account.
+</p></body></html>
+------=_NextPart_000_000A_01D19C92.195FC4C0--
+

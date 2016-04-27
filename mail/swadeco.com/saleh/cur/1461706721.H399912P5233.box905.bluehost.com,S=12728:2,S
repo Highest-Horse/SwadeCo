@@ -1,0 +1,245 @@
+Return-path: <01000154548276fc-a057de96-1ebf-4d18-beaf-a2512aab1dcb-000000@amazonses.com>
+Envelope-to: saleh@swadeco.com
+Delivery-date: Tue, 26 Apr 2016 15:38:41 -0600
+Received: from [54.240.14.29] (port=44542 helo=a14-29.smtp-out.amazonses.com)
+	by box905.bluehost.com with esmtps (TLSv1:ECDHE-RSA-AES128-SHA:128)
+	(Exim 4.86_2)
+	(envelope-from <01000154548276fc-a057de96-1ebf-4d18-beaf-a2512aab1dcb-000000@amazonses.com>)
+	id 1avAgq-0001HC-Ki
+	for saleh@swadeco.com; Tue, 26 Apr 2016 15:38:41 -0600
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=xnlkgdg6lfiigr56lumttxpdw7xvumrq; d=adobe.com; t=1461706717;
+	h=From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:Date;
+	bh=6OVLtxLWN5RNLO7mRaTQvCF4368B1SBaZhGsbTsjAC8=;
+	b=quRsZauReF37APWSdhcHnWJ+Y3jiXex89BS7TDm8VLXALEMCnIz1MRfteku1UOtD
+	DbUzLBOjT2v4783WNtLrnJj1eDkDz5l+vdqU5PqikJJZIwaQ8jWm5NR1/5f0xjK4+8U
+	w3kfvBR/yZU6rfjoFlu2YWrVnKTsVjqxHNekQsgU=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=6gbrjpgwjskckoa6a5zn6fwqkn67xbtw; d=amazonses.com; t=1461706717;
+	h=From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:Date:Feedback-ID;
+	bh=6OVLtxLWN5RNLO7mRaTQvCF4368B1SBaZhGsbTsjAC8=;
+	b=oykmq3OLv5o5J/ruY/Ko78GUc/IKcFqQWm4qEPPpUDDwxHrO0bYE/dB9LFJQTLRl
+	pmzy4X4JNbht/YVXPHtDM3WUIHqyENE3eIEeAz2z+6Qe9EshliGAOkYvlSKBHvGsh1l
+	YdAVQVE5FAQUhjIsCIdq6HKeVg658tpg1a5uw4eo=
+From: Adobe Creative Cloud  <message@adobe.com>
+Reply-To: Adobe Creative Cloud <message@adobe.com>
+To: saleh@swadeco.com
+Message-ID: <01000154548276fc-a057de96-1ebf-4d18-beaf-a2512aab1dcb-000000@email.amazonses.com>
+Subject: Creative Cloud: Please verify your email address
+Errors-To: Adobe Creative Cloud <message@adobe.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_213892_877615456.1461706716791"
+Date: Tue, 26 Apr 2016 21:38:37 +0000
+X-SES-Outgoing: 2016.04.26-54.240.14.29
+Feedback-ID: 1.us-east-1.4BVvjB29RcVWWoA9T/L9DGquaEnd6x9G7xLW1muBHKQ=:AmazonSES
+X-Identified-User: {0000:box905.bluehost.com:local:local} {sentby:Delivered locally}
+
+------=_Part_213892_877615456.1461706716791
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+------------------------------------------------------------------
+ADOBE(R) CREATIVE CLOUD(TM)
+------------------------------------------------------------------
+
+You're nearly there
+
+Welcome to Creative Cloud, saleh. Before we can get started, we need to quickly verify your email address.
+
+Click the link below and sign in using your new Adobe ID: saleh@swadeco.com
+
+Verify your email:
+https://adobeid.services.adobe.com/verify/en_US/950V04B4GQ7S4FJF25606KFKSW
+
+Once your email is verified, sign in to Creative Cloud to get started.
+
+Sign in:
+http://creative.adobe.com
+ 	
+Thank you,
+The Creative Cloud team
+
+------------------------------------------------------------------
+GET ANSWERS QUICKLY
+------------------------------------------------------------------
+
+Find answers to frequently asked questions about Creative Cloud.
+
+http://www.adobe.com/products/creativecloud/faq.html
+
+------------------------------------------------------------------
+YOUR ACCOUNT
+------------------------------------------------------------------
+
+View your account details and settings.
+
+http://www.adobe.com/go/cc_manage_act
+
+------------------------------------------------------------------
+NEED HELP?
+------------------------------------------------------------------
+
+Contact Customer Support if you're feeling stuck.
+
+http://www.adobe.com/go/cc_customersupport
+
+------------------------------------------------------------------
+
+Manage Your Account:
+http://www.adobe.com/go/cc_manage_act
+
+Customer Support:
+http://www.adobe.com/go/cc_customersupport
+
+Forums:
+http://forums.adobe.com/community/creative_cloud
+
+******************************************************************
+
+Adobe, the Adobe logo, Creative Cloud, and the Creative Cloud logo are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries.
+
+(C) 2016 Adobe Systems Incorporated. All rights reserved.
+
+ Adobe Systems Incorporated, 345 Park Ave., San Jose, CA 95110 USA 
+------=_Part_213892_877615456.1461706716791
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+	<head>
+		<meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+		<title></title>
+		<style type="text/css">
+.ReadMsgBody { width: 100%;}
+.ExternalClass {width: 100%;}
+
+	@media only screen and (max-width: 479px){
+		td[class="web"], table[class="web"] {
+	         display:none !important;
+	     }	
+	}		</style>
+	</head>
+	<body bgcolor="#ffffff" style="background-color:#ffffff; margin:0; padding:0;" topmargin="0">
+		<div style="font-size: 1px; color: #ffffff; display: none;">
+			You're nearly there. Welcome to Creative Cloud,&nbsp;. Before we can get started, we need to quickly verify your email address.</div>
+		<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" style="background-color:#ffffff;" width="100%">
+			<tbody>
+				<tr>
+					<td>&nbsp;
+						</td>
+					<td align="right" class="web" style="color:#333333; font-family: Arial, Helvetica, sans-serif; font-size: 11px; line-height:13px; padding-top:15px; padding-bottom:15px; padding-right:12px;">
+						<a alias="Account" href="http://www.adobe.com/go/cc_manage_act" style="color:#2b9af3;text-decoration:none;font-weight:bold">Manage Your Account</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a alias="Support" href="http://www.adobe.com/go/cc_customersupport" style="color:#2b9af3;text-decoration:none;font-weight:bold">Customer Support</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a alias="Forums" href="http://forums.adobe.com/community/creative_cloud" style="color:#2b9af3;text-decoration:none;font-weight:bold">Forums</a></td>
+					<td>&nbsp;
+						</td>
+				</tr>
+				<tr>
+					<td>&nbsp;
+						</td>
+					<td bgcolor="#fafafa" style="background-color:#fafafa; border-top:1px solid #e1e1e1; border-left:1px solid #e1e1e1; border-right:1px solid #e1e1e1; border-bottom:1px solid #e1e1e1;" width="90%">
+						<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+									<td width="24">&nbsp;
+										</td>
+									<td style="padding-top:16px;">
+										<img alt="Adobe Creative Cloud" height="19" src="http://success.adobe.com/assets/en/images/email/templates/adobe.corp.email.ccm.transactional.transparent.344x38.png" style="display:block; vertical-align:top;" width="172" /></td>
+									<td align="right" style="padding-top:10px;">
+										<img alt="Adobe" height="44" src="http://success.adobe.com/assets/en/images/email/templates/adobe.corp.email.ccm.transactional.transparent.70x88.png" style="display:block; vertical-align:top;" width="35" /></td>
+									<td width="24">&nbsp;
+										</td>
+								</tr>
+								<tr>
+									<td width="24">&nbsp;
+										</td>
+									<td colspan="2" style="color:#333333; font-family:Arial, Helvetica, sans-serif; font-size:24px; line-height:26px; padding-top:18px;">
+										You're nearly there</td>
+									<td width="24">&nbsp;
+										</td>
+								</tr>
+								<tr>
+									<td width="24">&nbsp;
+										</td>
+									<td colspan="2" style="color:#858585; font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:20px; padding-top:18px;">
+										Welcome to Creative Cloud,&nbsp;saleh. Before we can get started, we need to quickly verify your email address.</td>
+									<td width="24">&nbsp;
+										</td>
+								</tr>
+								<tr>
+									<td width="24">&nbsp;
+										</td>
+									<td colspan="2" style="color:#858585; font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:20px; padding-top:18px;">
+										Click the link below and sign in using your new Adobe&nbsp;ID: <a href="saleh@swadeco.com" style="color:#858585;text-decoration:none;">saleh@swadeco.com</a></td>
+									<td width="24">&nbsp;
+										</td>
+								</tr>
+								<tr>
+									<td width="24">&nbsp;
+										</td>
+									<td colspan="2" style="color:#858585; font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:20px; padding-top:18px;">
+										<a href="https://adobeid.services.adobe.com/verify/en_US/950V04B4GQ7S4FJF25606KFKSW" style="color:#2b9af3;text-decoration:none;font-weight:bold">Verify your email</a></td>
+									<td width="24">&nbsp;
+										</td>
+								</tr>
+								<tr>
+									<td width="24">&nbsp;
+										</td>
+									<td colspan="2" style="color:#858585; font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:20px; padding-top:18px;">
+										Once your email is verified,&nbsp;<a href="https://creative.adobe.com/" style="color: #2b9af3; text-decoration: none; font-weight: bold;">sign&nbsp;in</a>&nbsp;to Creative Cloud to get started.</td>
+									<td width="24">&nbsp;
+										</td>
+								</tr>
+								<tr>
+									<td style="padding-top:18px; padding-bottom:32px; border-bottom:1px solid #e1e1e1;" width="24">&nbsp;
+										</td>
+									<td colspan="2" style="color:#858585; font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:20px; padding-top:18px; padding-bottom:32px; border-bottom:1px solid #e1e1e1;">
+										We're glad you're here,<br />
+										The Creative Cloud team</td>
+									<td style="padding-top:18px; padding-bottom:32px; border-bottom:1px solid #e1e1e1;" width="24">&nbsp;
+										</td>
+								</tr>
+							</tbody>
+						</table>
+						<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+									<td style="border-top:1px solid #e1e1e1; border-right:1px solid #e1e1e1; color:#3F3F3F; font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:16px; padding-top:18px; padding-left:20px; padding-right:20px;" valign="top" width="33%">
+										Get answers quickly</td>
+									<td style="border-top:1px solid #e1e1e1; border-right:1px solid #e1e1e1; color:#3F3F3F; font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:16px; padding-top:18px; padding-left:20px; padding-right:20px;" valign="top" width="33%">
+										Your account</td>
+									<td style="border-top:1px solid #e1e1e1; color:#3F3F3F; font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:16px; padding-top:18px; padding-left:20px; padding-right:20px;" valign="top" width="33%">
+										Need help?&nbsp;</td>
+								</tr>
+								<tr>
+									<td style="border-bottom:1px solid #ececec; border-right:1px solid #e1e1e1; color:#858585; font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:18px; padding-top:6px; padding-bottom:30px; padding-left:20px; padding-right:20px;" valign="top" width="33%">
+										Find answers to <a href="http://www.adobe.com/products/creativecloud/faq.html" style="color:#2b9af3;text-decoration:none;font-weight:bold">frequently asked questions</a>&nbsp;about Creative Cloud.</td>
+									<td style="border-bottom:1px solid #ececec; border-right:1px solid #e1e1e1; color:#858585; font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:18px; padding-top:6px; padding-bottom:30px; padding-left:20px; padding-right:20px;" valign="top" width="33%">
+										<a href="http://www.adobe.com/go/cc_manage_act" style="color: #2b9af3; text-decoration: none; font-weight: bold;">View your account </a>details and&nbsp;settings.</td>
+									<td style="border-bottom:1px solid #ececec; color:#858585; font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:18px; padding-top:6px; padding-bottom:30px; padding-left:20px; padding-right:20px;" valign="top" width="33%">
+										Contact&nbsp;<a href="http://www.adobe.com/go/cc_customersupport" style="color:#2b9af3;text-decoration:none;font-weight:bold">Customer Support</a>&nbsp;if you're feeling stuck.</td>
+								</tr>
+							</tbody>
+						</table>
+					</td>
+					<td>&nbsp;
+						</td>
+				</tr>
+				<tr>
+					<td>&nbsp;
+						</td>
+					<td align="left" style="color:#a1a1a1; font-family:Arial, Helvetica, sans-serif; font-size:11px; line-height:14px; text-align:left; padding-top:20px; padding-bottom:40px;">
+						Adobe, the Adobe logo, Creative Cloud, and the Creative Cloud logo are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries.<br />
+						<br />
+						&copy; 2016 Adobe Systems Incorporated. All rights reserved.<br/><br/>      Adobe Systems Incorporated, 345 Park Ave., San Jose, CA 95110 USA </td>
+					<td>&nbsp;
+						</td>
+				</tr>
+			</tbody>
+		</table>
+		<p>&nbsp;</p>
+	</body>
+</html>
+
+------=_Part_213892_877615456.1461706716791--
+

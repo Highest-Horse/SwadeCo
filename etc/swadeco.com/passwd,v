@@ -1,0 +1,39 @@
+head	1.2;
+access;
+symbols;
+locks
+	swadecoc:1.2; strict;
+comment	@# @;
+
+
+1.2
+date	2016.04.20.16.19.55;	author swadecoc;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2016.04.20.16.19.55;	author swadecoc;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.2
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@saleh:x:542:546::/home2/swadecoc/mail/swadeco.com/saleh:/home2/swadecoc
+@
+
+
+1.1
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+@
